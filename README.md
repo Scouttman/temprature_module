@@ -1,6 +1,6 @@
 # Heatpad controller 
 
-Desgiend to use use peltiers to keep 
+Desgiend to use use peltiers to keep SBS plate at a constant temprature
 
 hardware consists of a 
 Full hbridge used to control a peltier device
